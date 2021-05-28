@@ -1,0 +1,7 @@
+Debug/
+Release/
+
+LabStreamQueue/Debug/
+LabStreamQueue/Release/
+
+.vs/
